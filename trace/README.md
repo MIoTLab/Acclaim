@@ -1,6 +1,6 @@
 These files are used to generate the Figure 12.
 
-There are three traces: lanchC.txt is collected when launching Chrome, launchY.txt is launching YouTube, and using ACFYT is collected when using five apps.
+There are three traces: lanchC.txt is collected when launching Chrome, launchY.txt is launching YouTube, and using ACFYT is collected when using five apps. Traces are compressed into `traces.tar.gz` for reducing the repository size.
 
 Python scripts are provided to process the traces to show the predicted results.
 
