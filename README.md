@@ -1,6 +1,6 @@
 # Acclaim
 
-Acclaim is a foreground aware and size-sensitive reclaim scheme for Android. Acclaim consists of two parts: foreground aware evic- tion (FAE) and lightweight prediction-based reclaim scheme (LWP). FAE is used to relocate free pages from background applications to foreground applications. While LWP dynami- cally tunes the size and the amount of background reclaims according to the predicted allocation workloads. Experimen- tal results show Acclaim can significantly reduce the number of page re-faults and direct reclaims with low overheads and delivers better user experiences for mobile devices.
+Acclaim is a foreground aware and size-sensitive reclaim scheme for Android. Acclaim consists of two parts: foreground aware eviction (FAE) and lightweight prediction-based reclaim scheme (LWP). FAE is used to relocate free pages from background applications to foreground applications. While LWP dynamically tunes the size and the amount of background reclaims according to the predicted allocation workloads.
 
 Please cite the following paper if you use Acclaim:
 
