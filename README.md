@@ -4,7 +4,7 @@ Acclaim is a foreground aware and size-sensitive reclaim scheme for Android. Acc
 
 Please cite the following paper if you use Acclaim:
 
-- Yu Liang, Jinheng Li, Rachata Ausavarungnirun, Riwei Pan, Liang Shi, Tei-Wei Kuo, Chun Jason Xue. "**Acclaim: Adaptive Memory Reclaim to Improve User Experience in Android Systems**". In Proceedings of the 2020 USENIX Annual Technical Conference (USENIX ATC 2020), Boston, MA, USA, July 2020.
+Yu Liang, Jinheng Li, Rachata Ausavarungnirun, Riwei Pan, Liang Shi, Tei-Wei Kuo, Chun Jason Xue. "**Acclaim: Adaptive Memory Reclaim to Improve User Experience in Android Systems**". In Proceedings of the 2020 USENIX Annual Technical Conference (USENIX ATC 2020), Boston, MA, USA, July 2020.
 
 [Paper](https://www.usenix.org/system/files/atc20-liang-yu_0.pdf) | [Talk Slides](https://www.usenix.org/system/files/atc20-paper932-slides-liang.pdf) | [Talk Video](https://www.usenix.org/conference/atc20/presentation/liang-yu) | [BibTeX](https://www.usenix.org/biblio/export/bibtex/254404)
 
